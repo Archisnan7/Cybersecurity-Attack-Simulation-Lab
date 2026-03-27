@@ -34,6 +34,12 @@ The entered credentials were successfully captured on the attacker machine.
 - Importance of user awareness
 - Need for secure authentication methods
 
+## Detection
+- Sense of Urgency
+- Mismatched URL
+- Generic Greetings
+- Unusual Sender Address
+
 ## Prevention
 - Verify URLs before login
 - Enable 2-factor authentication
