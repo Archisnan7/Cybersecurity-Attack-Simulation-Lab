@@ -31,6 +31,11 @@ Unencrypted login credentials were visible in captured packets.
 - Importance of HTTPS encryption
 - Risks of unsecured networks
 
+## Detection
+- Promiscuous mode detection
+- Latency analysis
+- Address Resolution Protocol(ARP) watch
+
 ## Prevention
 - Use HTTPS websites
 - Encrypt network traffic
