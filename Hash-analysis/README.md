@@ -30,6 +30,12 @@ Hash values changed after file modification.
 - Importance of data integrity
 - Use in digital forensics
 
+## Detection
+- Static file analysis
+- Reputations lookups
+- Verification commands
+- Hash collisions
+
 ## Prevention Use Case
 Hashing ensures files are not tampered with during transfer.
 
