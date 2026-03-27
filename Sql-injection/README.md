@@ -32,6 +32,12 @@ Authentication bypass was achieved.
 - Understanding database vulnerabilities
 - Importance of input validation
 
+## Detection
+- Manual Identification(Fuzzing)
+- Static Analysis(SAST)
+- Automated Scanning Tools
+- Log analysis(SIEM/WAF)
+
 ## Prevention
 - Use prepared statements
 - Input sanitization
