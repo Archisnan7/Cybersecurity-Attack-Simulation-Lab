@@ -32,6 +32,14 @@ Weak password was successfully cracked.
 - Importance of strong passwords
 - Understanding brute-force attacks
 
+## Detection
+- High volume of failed logins
+- Single IP,multiple username
+- Multiple IPs,single username
+- Unusual login times
+- Sequential guessing
+- Anamalous response sizes
+
 ## Prevention
 - Strong passwords
 - Account lockout policies
