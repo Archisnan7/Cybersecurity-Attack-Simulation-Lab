@@ -1,4 +1,7 @@
 # Cybersecurity-Attack-Simulation-Lab
+## ⚠️ Disclaimer
+This project was conducted in a controlled lab environment for educational purposes only.
+
 ## 📌 Project Architecture
 
 Attacker Machine: Kali Linux  
