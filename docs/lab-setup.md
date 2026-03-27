@@ -4,11 +4,15 @@
 - Kali Linux (Attacker)
 - Test Machine (Target)
 
+## Virtualisation
+-Virtual Box/ VMWare
+
 ## Network Configuration
 - Local isolated network
 - No internet exposure
 
 ## Tools Installed
 - Wireshark
-- Hydra
+- Medusa
+- Hashdeep
 - SET Toolkit
