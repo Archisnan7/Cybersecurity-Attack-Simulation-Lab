@@ -31,6 +31,13 @@ A replica website was successfully created.
 - Understanding phishing preparation
 - Risks of fake websites
 
+## Detection
+- DOM structures and Metadata analysis
+- Javascript "Phone Home" scripts
+- Honeytoken Assets
+- Automated takedown request
+- AI driven visual Comparision
+
 ## Prevention
 - Check URL authenticity
 - Avoid entering credentials on unknown sites
