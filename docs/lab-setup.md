@@ -5,7 +5,7 @@
 - Test Machine (Target)
 
 ## Virtualisation
--Virtual Box/ VMWare
+- Virtual Box/ VMWare
 
 ## Network Configuration
 - Local isolated network
