@@ -31,6 +31,12 @@ Server became slow/unresponsive under heavy traffic.
 - Understanding DoS attacks
 - Importance of traffic filtering
 
+## Detection
+- Traffic spikes
+- Resource exhaustion
+- Pattern consistency
+- High latency
+
 ## Prevention
 - Rate limiting
 - Firewalls
