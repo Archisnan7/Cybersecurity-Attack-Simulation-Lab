@@ -33,5 +33,7 @@ My projects contains sql injection attacks using different payloads in a test we
 
 ** All the practicals were conducted in a isolated lab and are for educational purposes.
 
-## 🚀 Future Improvements
-I am looking forward to improve more on my skills.Suggest me any further imporvemets that I would need to be better 
+## 🚀 Future Improvements & Work
+- Build automated vulnerability scanner
+- Implement intrusion detection system
+- Add real-time monitoring dashboard
